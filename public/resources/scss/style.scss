@@ -163,6 +163,17 @@ html {
 		height: 90px;
 	}
 
+	&__logo {
+		height: 100%;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+
+		&>img {
+			height: 45px;
+		}
+	}
+
 	&__contacts {
 		display: flex;
 		justify-content: flex-start;
