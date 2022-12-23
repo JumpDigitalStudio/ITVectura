@@ -2,7 +2,6 @@
 
 A centralized approach to the development of transport, yard and warehouse management helps to automate the processes of forwarding companies and shippers, reduces transportation costs and improves the level of customer service.
 
-![Logo](https://github.com/JumpDigitalStudio/i1Consilting/blob/master/public/favicons/mstile-150x150.png)
 ## Commerce
 
 https://itvectura.com/
